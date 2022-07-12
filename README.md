@@ -1,4 +1,4 @@
-# Academy Tech Test
+# Generation Academy Tech Test
 
 ## The Task
 
