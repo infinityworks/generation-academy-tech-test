@@ -29,6 +29,8 @@ Kya - Donaldson - Consultant -
 ...
 ```
 
+There are 3 test files which are all in quoted CSV format - people-list.csv, people-list-comma.csv and people-list-full.csv. The first has no gotchas, the second contains some commas within the data fields, and the last contains escaped quotes - making the task progressively more difficult as it goes on.
+
 _Note_ : Please do not fork the repository.
 
 ## Prerequisites
