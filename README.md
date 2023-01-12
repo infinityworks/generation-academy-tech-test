@@ -15,6 +15,7 @@ CSV:
 "Edmund","Ramsey","Consultant",""
 "Oliver","Rooney","Associate Consultant",""
 "Kya","Donaldson","Consultant",""
+"Anisa","Hancock","Consultant","Has requested to join a different client"
 ...
 ```
 
@@ -26,6 +27,7 @@ Yazmin - Rice - Senior Consultant -
 Edmund - Ramsey - Consultant - 
 Oliver - Rooney - Associate Consultant - 
 Kya - Donaldson - Consultant - 
+Anisa - Hancock - Consultant - Has requested to join a different client
 ...
 ```
 
