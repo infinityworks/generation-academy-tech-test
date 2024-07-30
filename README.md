@@ -33,6 +33,10 @@ Kya - Donaldson - Consultant -
 
 _Note_ : Please do not fork the repository.
 
+## Sample data
+
+Three example .csvs have been included in the `data` directory. Solve the problem for `people-list.csv` first, then if time consider updating the code to ensure edge cases in `people-list-comma.csv`, and then `people-list-full.csv` are also handled.
+
 ## Prerequisites
 
 * Python 3
